@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstanceClassifier", "SubstanceClassifier\SubstanceClassifier.csproj", "{55A8C6AF-4E65-4AF8-A1DD-2FB980FDDE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstanceClassifierApp", "SubstanceClassifierApp\SubstanceClassifierApp.csproj", "{D23FF8E0-45DF-4D2F-9328-0A6B097DA900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A8C6AF-4E65-4AF8-A1DD-2FB980FDDE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A8C6AF-4E65-4AF8-A1DD-2FB980FDDE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A8C6AF-4E65-4AF8-A1DD-2FB980FDDE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A8C6AF-4E65-4AF8-A1DD-2FB980FDDE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23FF8E0-45DF-4D2F-9328-0A6B097DA900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23FF8E0-45DF-4D2F-9328-0A6B097DA900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23FF8E0-45DF-4D2F-9328-0A6B097DA900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23FF8E0-45DF-4D2F-9328-0A6B097DA900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E626455-1998-4AEC-99BC-189B3C7B0151}
+	EndGlobalSection
+EndGlobal
